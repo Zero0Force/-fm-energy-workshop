@@ -1,0 +1,6 @@
+# Postgres — your database connection
+DATABASE_URL=""
+
+
+OPENAI_API_KEY="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"
+OPENAI_MODEL="gpt-6-luna"
