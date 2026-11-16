@@ -8,9 +8,12 @@ __pycache__/
 *.py[cod]
 *.pyo
 
-# Environment variables
+# Environment variables — all common patterns
 .env
 .env.*
+env
+env.*
+*.env
 
 # OS artefacts
 .DS_Store
